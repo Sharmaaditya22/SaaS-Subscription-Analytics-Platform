@@ -1,0 +1,500 @@
+{"event_id": "e-9125196247", "event_type": "login", "event_ts": "2025-08-23T22:10:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022"}}
+{"event_id": "e-7159250506", "event_type": "login", "event_ts": "2025-08-24T00:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-2381183484", "event_type": "login", "event_ts": "2025-08-24T01:11:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-9337376325", "event_type": "login", "event_ts": "2025-08-23T23:35:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000027"}}
+{"event_id": "e-3580822353", "event_type": "login", "event_ts": "2025-08-24T00:43:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-5679017211", "event_type": "login", "event_ts": "2025-08-24T00:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-6490442895", "event_type": "login", "event_ts": "2025-08-23T22:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029"}}
+{"event_id": "e-4659161353", "event_type": "login", "event_ts": "2025-08-23T23:49:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000048"}}
+{"event_id": "e-1439622620", "event_type": "login", "event_ts": "2025-08-23T22:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-1333241446", "event_type": "login", "event_ts": "2025-08-23T22:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049"}}
+{"event_id": "e-0198486417", "event_type": "login", "event_ts": "2025-08-23T23:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000013"}}
+{"event_id": "e-6250964837", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000040", "amount": 9.0}}
+{"event_id": "e-5944142263", "event_type": "login", "event_ts": "2025-08-24T00:18:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-2953315789", "event_type": "login", "event_ts": "2025-08-23T22:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016"}}
+{"event_id": "e-7638257498", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049", "amount": 9.0}}
+{"event_id": "e-6519578900", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:48:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000012", "amount": 99.0}}
+{"event_id": "e-3643576872", "event_type": "login", "event_ts": "2025-08-24T00:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036"}}
+{"event_id": "e-9273512585", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009", "amount": 99.0}}
+{"event_id": "e-3228856719", "event_type": "login", "event_ts": "2025-08-23T22:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-5322520474", "event_type": "login", "event_ts": "2025-08-24T00:08:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-5302109557", "event_type": "plan_upgraded", "event_ts": "2025-08-24T00:35:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-0594312072", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021", "amount": 9.0}}
+{"event_id": "e-3034047119", "event_type": "login", "event_ts": "2025-08-24T01:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025"}}
+{"event_id": "e-6625464412", "event_type": "login", "event_ts": "2025-08-24T00:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000027"}}
+{"event_id": "e-6099469984", "event_type": "login", "event_ts": "2025-08-23T22:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-2987248495", "event_type": "login", "event_ts": "2025-08-23T22:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-2048612359", "event_type": "login", "event_ts": "2025-08-24T00:30:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049"}}
+{"event_id": "e-5242173773", "event_type": "plan_downgraded", "event_ts": "2025-08-24T01:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-4419627963", "event_type": "login", "event_ts": "2025-08-24T00:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000018"}}
+{"event_id": "e-0116402432", "event_type": "login", "event_ts": "2025-08-23T23:16:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-1982979742", "event_type": "login", "event_ts": "2025-08-24T01:48:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000028"}}
+{"event_id": "e-5204041309", "event_type": "login", "event_ts": "2025-08-24T00:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000017"}}
+{"event_id": "e-5923301989", "event_type": "plan_downgraded", "event_ts": "2025-08-23T22:48:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022"}}
+{"event_id": "e-4646751886", "event_type": "login", "event_ts": "2025-08-24T01:56:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000027"}}
+{"event_id": "e-1503068228", "event_type": "login", "event_ts": "2025-08-23T23:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000048"}}
+{"event_id": "e-1062073698", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:26:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005", "amount": 99.0}}
+{"event_id": "e-1024542723", "event_type": "login", "event_ts": "2025-08-23T23:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002"}}
+{"event_id": "e-4070585434", "event_type": "login", "event_ts": "2025-08-24T00:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-1584392712", "event_type": "login", "event_ts": "2025-08-23T23:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-1335901991", "event_type": "payment_failed", "event_ts": "2025-08-23T23:32:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039", "amount": 99.0, "failure_reason": "card_declined"}}
+{"event_id": "e-8410288291", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:19:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002", "amount": 99.0}}
+{"event_id": "e-1043030162", "event_type": "login", "event_ts": "2025-08-23T23:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-3459716272", "event_type": "login", "event_ts": "2025-08-23T22:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-6583090713", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:11:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037", "amount": 29.0}}
+{"event_id": "e-7076144397", "event_type": "trial_started", "event_ts": "2025-08-24T01:57:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-4952059279", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000027", "amount": 9.0}}
+{"event_id": "e-7088660634", "event_type": "login", "event_ts": "2025-08-23T23:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000047"}}
+{"event_id": "e-5447717368", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:22:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035", "amount": 29.0}}
+{"event_id": "e-1936179854", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:48:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016", "amount": 9.0}}
+{"event_id": "e-7164814927", "event_type": "login", "event_ts": "2025-08-24T00:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000030"}}
+{"event_id": "e-1395925223", "event_type": "login", "event_ts": "2025-08-23T23:56:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002"}}
+{"event_id": "e-5404582460", "event_type": "login", "event_ts": "2025-08-24T00:49:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000014"}}
+{"event_id": "e-9776499090", "event_type": "login", "event_ts": "2025-08-24T01:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039"}}
+{"event_id": "e-7387664438", "event_type": "payment_failed", "event_ts": "2025-08-23T23:55:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034", "amount": 9.0, "failure_reason": "card_declined"}}
+{"event_id": "e-7261111840", "event_type": "plan_downgraded", "event_ts": "2025-08-23T23:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036"}}
+{"event_id": "e-3405620756", "event_type": "login", "event_ts": "2025-08-24T01:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-2971203214", "event_type": "login", "event_ts": "2025-08-24T00:42:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-6575259638", "event_type": "login", "event_ts": "2025-08-24T00:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-6243788375", "event_type": "login", "event_ts": "2025-08-24T00:42:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000048"}}
+{"event_id": "e-3097892640", "event_type": "login", "event_ts": "2025-08-24T00:40:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000017"}}
+{"event_id": "e-2964229897", "event_type": "plan_upgraded", "event_ts": "2025-08-24T01:11:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008"}}
+{"event_id": "e-9777491455", "event_type": "plan_upgraded", "event_ts": "2025-08-23T23:30:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000014"}}
+{"event_id": "e-5128695962", "event_type": "login", "event_ts": "2025-08-24T01:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049"}}
+{"event_id": "e-8650701350", "event_type": "login", "event_ts": "2025-08-23T23:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-4184564875", "event_type": "login", "event_ts": "2025-08-23T23:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-9132300867", "event_type": "login", "event_ts": "2025-08-23T22:18:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-3748302740", "event_type": "login", "event_ts": "2025-08-23T23:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049"}}
+{"event_id": "e-6186766400", "event_type": "login", "event_ts": "2025-08-24T01:13:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-7996039245", "event_type": "login", "event_ts": "2025-08-24T01:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-8908115096", "event_type": "login", "event_ts": "2025-08-23T23:19:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-1304963615", "event_type": "trial_started", "event_ts": "2025-08-24T00:57:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044"}}
+{"event_id": "e-2656086595", "event_type": "login", "event_ts": "2025-08-23T22:42:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008"}}
+{"event_id": "e-8196963902", "event_type": "login", "event_ts": "2025-08-24T00:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034"}}
+{"event_id": "e-2667292044", "event_type": "payment_failed", "event_ts": "2025-08-23T23:24:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000038", "amount": 29.0, "failure_reason": "expired_card"}}
+{"event_id": "e-3275930924", "event_type": "login", "event_ts": "2025-08-23T23:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000048"}}
+{"event_id": "e-0348697525", "event_type": "login", "event_ts": "2025-08-24T00:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000014"}}
+{"event_id": "e-0672302491", "event_type": "login", "event_ts": "2025-08-24T00:16:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000012"}}
+{"event_id": "e-6313226026", "event_type": "login", "event_ts": "2025-08-24T01:52:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029"}}
+{"event_id": "e-9804200755", "event_type": "login", "event_ts": "2025-08-23T22:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015"}}
+{"event_id": "e-5144594355", "event_type": "trial_started", "event_ts": "2025-08-24T01:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000030"}}
+{"event_id": "e-0610900201", "event_type": "login", "event_ts": "2025-08-24T01:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035"}}
+{"event_id": "e-5534540350", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:29:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000011", "amount": 99.0}}
+{"event_id": "e-7300300578", "event_type": "login", "event_ts": "2025-08-24T00:51:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000030"}}
+{"event_id": "e-1880160026", "event_type": "login", "event_ts": "2025-08-23T23:27:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-9974295240", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:56:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000003", "amount": 99.0}}
+{"event_id": "e-4083595989", "event_type": "login", "event_ts": "2025-08-23T22:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002"}}
+{"event_id": "e-3248149901", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:00:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044", "amount": 99.0}}
+{"event_id": "e-8229469953", "event_type": "login", "event_ts": "2025-08-24T01:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034"}}
+{"event_id": "e-7792122717", "event_type": "login", "event_ts": "2025-08-24T01:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000038"}}
+{"event_id": "e-5726515967", "event_type": "login", "event_ts": "2025-08-23T23:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-6422990552", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:11:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007", "amount": 29.0}}
+{"event_id": "e-4452580288", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026", "amount": 99.0}}
+{"event_id": "e-7613035387", "event_type": "login", "event_ts": "2025-08-23T22:19:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021"}}
+{"event_id": "e-6625389038", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033", "amount": 9.0}}
+{"event_id": "e-7543865916", "event_type": "login", "event_ts": "2025-08-23T23:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-5169243285", "event_type": "plan_downgraded", "event_ts": "2025-08-23T23:40:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029"}}
+{"event_id": "e-2081821326", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:53:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009", "amount": 29.0}}
+{"event_id": "e-9617709373", "event_type": "login", "event_ts": "2025-08-24T01:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-6666869047", "event_type": "login", "event_ts": "2025-08-24T01:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-4067594935", "event_type": "payment_failed", "event_ts": "2025-08-23T23:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015", "amount": 9.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-7372755147", "event_type": "login", "event_ts": "2025-08-23T23:50:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010"}}
+{"event_id": "e-7880079329", "event_type": "login", "event_ts": "2025-08-24T00:00:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-4916199810", "event_type": "login", "event_ts": "2025-08-24T01:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016"}}
+{"event_id": "e-3776677518", "event_type": "login", "event_ts": "2025-08-23T22:19:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039"}}
+{"event_id": "e-6077131431", "event_type": "login", "event_ts": "2025-08-23T22:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-4305985002", "event_type": "login", "event_ts": "2025-08-23T22:55:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-4933179747", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:43:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020", "amount": 99.0}}
+{"event_id": "e-6628981662", "event_type": "login", "event_ts": "2025-08-24T00:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-9615596593", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:22:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021", "amount": 99.0}}
+{"event_id": "e-4482431019", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:50:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015", "amount": 29.0}}
+{"event_id": "e-7779942000", "event_type": "login", "event_ts": "2025-08-24T00:22:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-4212581852", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:54:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043", "amount": 99.0}}
+{"event_id": "e-7924383985", "event_type": "login", "event_ts": "2025-08-24T01:35:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000003"}}
+{"event_id": "e-3102872612", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:16:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034", "amount": 9.0}}
+{"event_id": "e-5433231473", "event_type": "payment_failed", "event_ts": "2025-08-23T23:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000042", "amount": 9.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-6586857686", "event_type": "login", "event_ts": "2025-08-24T00:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-7556573247", "event_type": "plan_upgraded", "event_ts": "2025-08-23T22:17:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-0293864878", "event_type": "user_signed_up", "event_ts": "2025-08-23T23:19:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035"}}
+{"event_id": "e-3207337121", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044", "amount": 9.0}}
+{"event_id": "e-4726642607", "event_type": "plan_downgraded", "event_ts": "2025-08-24T01:18:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-0124327520", "event_type": "login", "event_ts": "2025-08-24T00:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-5904897515", "event_type": "login", "event_ts": "2025-08-24T01:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-3403845223", "event_type": "login", "event_ts": "2025-08-24T01:17:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016"}}
+{"event_id": "e-8035194896", "event_type": "trial_started", "event_ts": "2025-08-23T23:22:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000012"}}
+{"event_id": "e-0614685939", "event_type": "login", "event_ts": "2025-08-24T00:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044"}}
+{"event_id": "e-9686554443", "event_type": "login", "event_ts": "2025-08-24T01:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-2347621139", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:42:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000030", "amount": 99.0}}
+{"event_id": "e-5369130995", "event_type": "payment_failed", "event_ts": "2025-08-23T22:24:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029", "amount": 99.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-2075362822", "event_type": "login", "event_ts": "2025-08-24T01:00:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-6763765758", "event_type": "login", "event_ts": "2025-08-23T23:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025"}}
+{"event_id": "e-5994940030", "event_type": "user_signed_up", "event_ts": "2025-08-24T01:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-4181592278", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037", "amount": 99.0}}
+{"event_id": "e-8173043236", "event_type": "plan_upgraded", "event_ts": "2025-08-23T22:42:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039"}}
+{"event_id": "e-1513206989", "event_type": "login", "event_ts": "2025-08-23T23:18:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015"}}
+{"event_id": "e-3600630514", "event_type": "login", "event_ts": "2025-08-23T23:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000013"}}
+{"event_id": "e-4464285983", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007", "amount": 99.0}}
+{"event_id": "e-0564409424", "event_type": "user_signed_up", "event_ts": "2025-08-23T22:08:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029"}}
+{"event_id": "e-1784572193", "event_type": "login", "event_ts": "2025-08-24T01:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-8218363979", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009", "amount": 29.0}}
+{"event_id": "e-7758809006", "event_type": "login", "event_ts": "2025-08-23T22:49:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000011"}}
+{"event_id": "e-4135595228", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:24:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022", "amount": 29.0}}
+{"event_id": "e-6688606772", "event_type": "payment_failed", "event_ts": "2025-08-24T01:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049", "amount": 99.0, "failure_reason": "expired_card"}}
+{"event_id": "e-2304560538", "event_type": "user_signed_up", "event_ts": "2025-08-24T00:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-7182649049", "event_type": "login", "event_ts": "2025-08-23T23:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-9055277560", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025", "amount": 29.0}}
+{"event_id": "e-6706193637", "event_type": "user_signed_up", "event_ts": "2025-08-23T22:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-8861449702", "event_type": "login", "event_ts": "2025-08-23T22:30:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000040"}}
+{"event_id": "e-7083429497", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000030", "amount": 29.0}}
+{"event_id": "e-4454792172", "event_type": "trial_started", "event_ts": "2025-08-23T23:54:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-4877639951", "event_type": "login", "event_ts": "2025-08-24T00:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008"}}
+{"event_id": "e-8381721144", "event_type": "login", "event_ts": "2025-08-24T01:52:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-6199283152", "event_type": "login", "event_ts": "2025-08-24T01:00:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-7239941613", "event_type": "login", "event_ts": "2025-08-23T23:41:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-6004964046", "event_type": "login", "event_ts": "2025-08-24T01:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000042"}}
+{"event_id": "e-2846570059", "event_type": "payment_failed", "event_ts": "2025-08-23T23:16:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008", "amount": 29.0, "failure_reason": "card_declined"}}
+{"event_id": "e-0091729578", "event_type": "login", "event_ts": "2025-08-23T22:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-2424843952", "event_type": "login", "event_ts": "2025-08-24T01:43:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022"}}
+{"event_id": "e-2518496187", "event_type": "login", "event_ts": "2025-08-23T22:32:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049"}}
+{"event_id": "e-4307145892", "event_type": "login", "event_ts": "2025-08-23T22:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015"}}
+{"event_id": "e-3429590758", "event_type": "payment_failed", "event_ts": "2025-08-24T01:32:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010", "amount": 99.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-4358791908", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043", "amount": 9.0}}
+{"event_id": "e-0067779247", "event_type": "login", "event_ts": "2025-08-24T00:53:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016"}}
+{"event_id": "e-9078054634", "event_type": "login", "event_ts": "2025-08-24T01:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-2549776133", "event_type": "login", "event_ts": "2025-08-24T00:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-2641863775", "event_type": "login", "event_ts": "2025-08-23T22:54:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-4140460940", "event_type": "login", "event_ts": "2025-08-24T01:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-2946766310", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:55:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031", "amount": 29.0}}
+{"event_id": "e-3862321354", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046", "amount": 9.0}}
+{"event_id": "e-4836956045", "event_type": "login", "event_ts": "2025-08-23T23:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039"}}
+{"event_id": "e-7353640267", "event_type": "login", "event_ts": "2025-08-24T00:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-6895255574", "event_type": "login", "event_ts": "2025-08-24T01:35:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039"}}
+{"event_id": "e-3717261215", "event_type": "login", "event_ts": "2025-08-24T00:10:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-6242730250", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029", "amount": 29.0}}
+{"event_id": "e-6127904757", "event_type": "login", "event_ts": "2025-08-23T23:10:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000047"}}
+{"event_id": "e-9245513773", "event_type": "login", "event_ts": "2025-08-23T22:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000017"}}
+{"event_id": "e-3572433067", "event_type": "trial_started", "event_ts": "2025-08-24T01:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-7468071954", "event_type": "login", "event_ts": "2025-08-23T22:33:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000028"}}
+{"event_id": "e-4819946658", "event_type": "login", "event_ts": "2025-08-24T00:30:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-9825293487", "event_type": "payment_failed", "event_ts": "2025-08-24T00:41:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043", "amount": 29.0, "failure_reason": "expired_card"}}
+{"event_id": "e-2179320311", "event_type": "login", "event_ts": "2025-08-24T01:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000023"}}
+{"event_id": "e-3639017776", "event_type": "login", "event_ts": "2025-08-24T00:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-7570333549", "event_type": "login", "event_ts": "2025-08-23T23:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036"}}
+{"event_id": "e-8702693938", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:03:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015", "amount": 99.0}}
+{"event_id": "e-0124352983", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:51:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043", "amount": 29.0}}
+{"event_id": "e-8252940808", "event_type": "plan_downgraded", "event_ts": "2025-08-24T00:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-9205195057", "event_type": "login", "event_ts": "2025-08-23T23:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000001"}}
+{"event_id": "e-4173893551", "event_type": "trial_started", "event_ts": "2025-08-24T01:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-5910709964", "event_type": "login", "event_ts": "2025-08-24T00:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000048"}}
+{"event_id": "e-9928406889", "event_type": "login", "event_ts": "2025-08-24T00:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022"}}
+{"event_id": "e-3793925799", "event_type": "payment_failed", "event_ts": "2025-08-24T01:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050", "amount": 99.0, "failure_reason": "card_declined"}}
+{"event_id": "e-8803662852", "event_type": "plan_downgraded", "event_ts": "2025-08-24T01:40:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000011"}}
+{"event_id": "e-6116096875", "event_type": "login", "event_ts": "2025-08-23T23:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000018"}}
+{"event_id": "e-2200510648", "event_type": "login", "event_ts": "2025-08-24T00:32:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029"}}
+{"event_id": "e-6842459489", "event_type": "login", "event_ts": "2025-08-23T23:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000028"}}
+{"event_id": "e-5242086784", "event_type": "login", "event_ts": "2025-08-23T23:27:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-5392415229", "event_type": "user_signed_up", "event_ts": "2025-08-24T00:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-7503368513", "event_type": "user_signed_up", "event_ts": "2025-08-24T01:16:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008"}}
+{"event_id": "e-3022245087", "event_type": "login", "event_ts": "2025-08-23T23:52:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-4604529188", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036", "amount": 29.0}}
+{"event_id": "e-4375461599", "event_type": "trial_started", "event_ts": "2025-08-23T22:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000048"}}
+{"event_id": "e-7044354826", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005", "amount": 99.0}}
+{"event_id": "e-8444763363", "event_type": "login", "event_ts": "2025-08-24T01:17:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008"}}
+{"event_id": "e-1554145482", "event_type": "login", "event_ts": "2025-08-24T00:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000040"}}
+{"event_id": "e-6824150225", "event_type": "login", "event_ts": "2025-08-23T23:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-9922553676", "event_type": "login", "event_ts": "2025-08-24T00:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-0722124510", "event_type": "login", "event_ts": "2025-08-23T23:50:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015"}}
+{"event_id": "e-2190227432", "event_type": "login", "event_ts": "2025-08-23T22:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-3500557311", "event_type": "login", "event_ts": "2025-08-24T01:00:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-0847275938", "event_type": "login", "event_ts": "2025-08-23T23:26:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-2815389789", "event_type": "plan_downgraded", "event_ts": "2025-08-24T01:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010"}}
+{"event_id": "e-6783763791", "event_type": "login", "event_ts": "2025-08-23T23:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-1357806227", "event_type": "login", "event_ts": "2025-08-24T00:08:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-7006745734", "event_type": "login", "event_ts": "2025-08-23T22:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-4613613760", "event_type": "login", "event_ts": "2025-08-24T00:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000018"}}
+{"event_id": "e-1232986478", "event_type": "user_signed_up", "event_ts": "2025-08-23T23:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029"}}
+{"event_id": "e-6472806995", "event_type": "login", "event_ts": "2025-08-24T00:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-3847761431", "event_type": "login", "event_ts": "2025-08-24T00:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000038"}}
+{"event_id": "e-9970881536", "event_type": "login", "event_ts": "2025-08-23T23:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-4560712831", "event_type": "login", "event_ts": "2025-08-24T01:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-2775094727", "event_type": "payment_failed", "event_ts": "2025-08-24T01:50:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022", "amount": 9.0, "failure_reason": "expired_card"}}
+{"event_id": "e-8551219871", "event_type": "login", "event_ts": "2025-08-23T23:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016"}}
+{"event_id": "e-5857897125", "event_type": "login", "event_ts": "2025-08-23T22:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034"}}
+{"event_id": "e-7621268225", "event_type": "login", "event_ts": "2025-08-23T23:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-1437308014", "event_type": "trial_started", "event_ts": "2025-08-24T00:36:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039"}}
+{"event_id": "e-5955247916", "event_type": "login", "event_ts": "2025-08-24T00:56:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-3750707608", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:35:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000047", "amount": 99.0}}
+{"event_id": "e-5797436141", "event_type": "login", "event_ts": "2025-08-23T23:13:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-9143777738", "event_type": "login", "event_ts": "2025-08-23T22:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-7695129535", "event_type": "login", "event_ts": "2025-08-23T22:32:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-2260842188", "event_type": "login", "event_ts": "2025-08-23T23:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-1554039849", "event_type": "login", "event_ts": "2025-08-24T00:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-5214917781", "event_type": "login", "event_ts": "2025-08-23T22:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-4294866889", "event_type": "login", "event_ts": "2025-08-24T01:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000032"}}
+{"event_id": "e-3384950378", "event_type": "login", "event_ts": "2025-08-23T23:51:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-2261436149", "event_type": "login", "event_ts": "2025-08-23T23:11:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-9152785949", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:24:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022", "amount": 99.0}}
+{"event_id": "e-9300919891", "event_type": "login", "event_ts": "2025-08-24T00:08:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010"}}
+{"event_id": "e-1928130927", "event_type": "login", "event_ts": "2025-08-23T23:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000003"}}
+{"event_id": "e-3586784712", "event_type": "login", "event_ts": "2025-08-24T00:26:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016"}}
+{"event_id": "e-7599680718", "event_type": "payment_failed", "event_ts": "2025-08-23T22:41:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044", "amount": 29.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-2597009739", "event_type": "login", "event_ts": "2025-08-23T22:17:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025"}}
+{"event_id": "e-4012760261", "event_type": "trial_started", "event_ts": "2025-08-23T22:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000017"}}
+{"event_id": "e-4983503548", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034", "amount": 29.0}}
+{"event_id": "e-1878930356", "event_type": "login", "event_ts": "2025-08-23T22:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-3996346510", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015", "amount": 29.0}}
+{"event_id": "e-1606152370", "event_type": "login", "event_ts": "2025-08-24T00:22:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-4416031879", "event_type": "login", "event_ts": "2025-08-23T22:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-0627276996", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:51:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007", "amount": 99.0}}
+{"event_id": "e-7325222093", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019", "amount": 29.0}}
+{"event_id": "e-0340272120", "event_type": "user_signed_up", "event_ts": "2025-08-24T00:55:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000040"}}
+{"event_id": "e-1817865364", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:42:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000014", "amount": 99.0}}
+{"event_id": "e-0523334662", "event_type": "login", "event_ts": "2025-08-24T00:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-6969918313", "event_type": "login", "event_ts": "2025-08-24T01:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000027"}}
+{"event_id": "e-8660523877", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:49:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008", "amount": 29.0}}
+{"event_id": "e-4911625146", "event_type": "login", "event_ts": "2025-08-24T00:11:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-9623150144", "event_type": "login", "event_ts": "2025-08-24T00:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000001"}}
+{"event_id": "e-8957643728", "event_type": "login", "event_ts": "2025-08-24T00:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000012"}}
+{"event_id": "e-4382302466", "event_type": "payment_failed", "event_ts": "2025-08-23T22:17:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005", "amount": 99.0, "failure_reason": "expired_card"}}
+{"event_id": "e-5898288855", "event_type": "trial_started", "event_ts": "2025-08-23T22:49:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-4585133384", "event_type": "login", "event_ts": "2025-08-24T00:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002"}}
+{"event_id": "e-7544878539", "event_type": "login", "event_ts": "2025-08-24T01:26:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000047"}}
+{"event_id": "e-2760786162", "event_type": "login", "event_ts": "2025-08-23T22:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000003"}}
+{"event_id": "e-0579187440", "event_type": "login", "event_ts": "2025-08-23T22:57:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-0865826729", "event_type": "payment_failed", "event_ts": "2025-08-23T22:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050", "amount": 9.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-8303765141", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:49:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000013", "amount": 29.0}}
+{"event_id": "e-1087974351", "event_type": "payment_failed", "event_ts": "2025-08-23T22:48:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026", "amount": 99.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-3353689020", "event_type": "login", "event_ts": "2025-08-23T22:19:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000042"}}
+{"event_id": "e-5875597608", "event_type": "login", "event_ts": "2025-08-23T22:13:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000042"}}
+{"event_id": "e-5955593944", "event_type": "plan_upgraded", "event_ts": "2025-08-24T01:13:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-8944748313", "event_type": "login", "event_ts": "2025-08-24T00:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000032"}}
+{"event_id": "e-9364989288", "event_type": "login", "event_ts": "2025-08-24T00:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-9998339858", "event_type": "login", "event_ts": "2025-08-24T00:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021"}}
+{"event_id": "e-7377306022", "event_type": "login", "event_ts": "2025-08-24T01:18:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-1920407277", "event_type": "login", "event_ts": "2025-08-23T22:54:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-6163022532", "event_type": "login", "event_ts": "2025-08-23T23:17:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000023"}}
+{"event_id": "e-7033062795", "event_type": "trial_started", "event_ts": "2025-08-24T00:27:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-0133747953", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033", "amount": 99.0}}
+{"event_id": "e-1881937954", "event_type": "login", "event_ts": "2025-08-24T01:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039"}}
+{"event_id": "e-7065920768", "event_type": "login", "event_ts": "2025-08-24T00:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-9248946493", "event_type": "payment_failed", "event_ts": "2025-08-24T00:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025", "amount": 9.0, "failure_reason": "expired_card"}}
+{"event_id": "e-3277422859", "event_type": "login", "event_ts": "2025-08-23T23:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-6004510517", "event_type": "login", "event_ts": "2025-08-23T23:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-0487258104", "event_type": "login", "event_ts": "2025-08-23T22:52:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000018"}}
+{"event_id": "e-2412365932", "event_type": "login", "event_ts": "2025-08-24T00:53:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000012"}}
+{"event_id": "e-1916728423", "event_type": "login", "event_ts": "2025-08-23T23:24:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-8584045521", "event_type": "login", "event_ts": "2025-08-24T01:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-4613018395", "event_type": "login", "event_ts": "2025-08-24T01:16:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008"}}
+{"event_id": "e-9962553610", "event_type": "login", "event_ts": "2025-08-24T00:32:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-6623575562", "event_type": "trial_started", "event_ts": "2025-08-23T22:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-0963110411", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020", "amount": 99.0}}
+{"event_id": "e-2121808074", "event_type": "login", "event_ts": "2025-08-24T00:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-9147297761", "event_type": "login", "event_ts": "2025-08-23T22:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036"}}
+{"event_id": "e-2469178882", "event_type": "trial_started", "event_ts": "2025-08-24T01:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-6227593034", "event_type": "login", "event_ts": "2025-08-23T23:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021"}}
+{"event_id": "e-4150074941", "event_type": "login", "event_ts": "2025-08-24T00:10:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034"}}
+{"event_id": "e-3570796342", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:48:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033", "amount": 9.0}}
+{"event_id": "e-4990610099", "event_type": "login", "event_ts": "2025-08-23T22:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010"}}
+{"event_id": "e-4633668010", "event_type": "login", "event_ts": "2025-08-24T01:10:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-6979417889", "event_type": "payment_failed", "event_ts": "2025-08-23T23:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041", "amount": 29.0, "failure_reason": "card_declined"}}
+{"event_id": "e-2753020052", "event_type": "login", "event_ts": "2025-08-23T23:29:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035"}}
+{"event_id": "e-6894019120", "event_type": "login", "event_ts": "2025-08-23T22:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000038"}}
+{"event_id": "e-3709912000", "event_type": "user_signed_up", "event_ts": "2025-08-24T01:40:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-2796581977", "event_type": "payment_failed", "event_ts": "2025-08-23T22:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000003", "amount": 99.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-2744446293", "event_type": "login", "event_ts": "2025-08-23T23:53:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-5592451646", "event_type": "login", "event_ts": "2025-08-24T00:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-1947957238", "event_type": "login", "event_ts": "2025-08-23T23:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044"}}
+{"event_id": "e-6080049103", "event_type": "login", "event_ts": "2025-08-24T00:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-4912019622", "event_type": "login", "event_ts": "2025-08-23T22:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000014"}}
+{"event_id": "e-1712474805", "event_type": "login", "event_ts": "2025-08-23T22:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-4751023836", "event_type": "login", "event_ts": "2025-08-24T00:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-1931000174", "event_type": "login", "event_ts": "2025-08-24T01:24:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000030"}}
+{"event_id": "e-8355364490", "event_type": "trial_started", "event_ts": "2025-08-23T22:19:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-3875395504", "event_type": "login", "event_ts": "2025-08-23T22:32:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000040"}}
+{"event_id": "e-1343100353", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021", "amount": 99.0}}
+{"event_id": "e-6505693644", "event_type": "login", "event_ts": "2025-08-23T23:53:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000011"}}
+{"event_id": "e-1033921655", "event_type": "login", "event_ts": "2025-08-23T23:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-5503383557", "event_type": "trial_started", "event_ts": "2025-08-23T23:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000023"}}
+{"event_id": "e-9817214560", "event_type": "login", "event_ts": "2025-08-24T01:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000042"}}
+{"event_id": "e-8085085823", "event_type": "login", "event_ts": "2025-08-23T22:54:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-1571688962", "event_type": "plan_downgraded", "event_ts": "2025-08-24T00:18:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-5131005450", "event_type": "login", "event_ts": "2025-08-23T23:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-6460728317", "event_type": "trial_started", "event_ts": "2025-08-23T22:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-0510289449", "event_type": "login", "event_ts": "2025-08-24T01:36:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036"}}
+{"event_id": "e-8533188044", "event_type": "login", "event_ts": "2025-08-23T23:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-9444881681", "event_type": "plan_downgraded", "event_ts": "2025-08-23T23:50:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-0194576437", "event_type": "login", "event_ts": "2025-08-24T01:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-1962750930", "event_type": "login", "event_ts": "2025-08-23T23:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-1368076066", "event_type": "login", "event_ts": "2025-08-24T00:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-9875136293", "event_type": "plan_upgraded", "event_ts": "2025-08-24T00:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000040"}}
+{"event_id": "e-6712708592", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033", "amount": 99.0}}
+{"event_id": "e-2893976445", "event_type": "login", "event_ts": "2025-08-24T00:14:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002"}}
+{"event_id": "e-2702653210", "event_type": "login", "event_ts": "2025-08-23T23:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000038"}}
+{"event_id": "e-9567225310", "event_type": "login", "event_ts": "2025-08-24T01:47:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-1632905062", "event_type": "login", "event_ts": "2025-08-23T22:30:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000038"}}
+{"event_id": "e-3008714406", "event_type": "login", "event_ts": "2025-08-24T01:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044"}}
+{"event_id": "e-1798647686", "event_type": "login", "event_ts": "2025-08-24T00:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002"}}
+{"event_id": "e-3124168228", "event_type": "login", "event_ts": "2025-08-23T23:00:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-6703957638", "event_type": "login", "event_ts": "2025-08-23T23:11:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-5038780152", "event_type": "login", "event_ts": "2025-08-23T22:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-7272725282", "event_type": "login", "event_ts": "2025-08-23T23:24:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035"}}
+{"event_id": "e-5353758929", "event_type": "login", "event_ts": "2025-08-23T23:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-9831197913", "event_type": "login", "event_ts": "2025-08-24T01:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-5656646926", "event_type": "login", "event_ts": "2025-08-24T00:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-5469458473", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:29:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036", "amount": 99.0}}
+{"event_id": "e-8504724762", "event_type": "login", "event_ts": "2025-08-23T22:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-4475641478", "event_type": "payment_failed", "event_ts": "2025-08-23T22:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000023", "amount": 9.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-9691353070", "event_type": "login", "event_ts": "2025-08-23T23:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-6608141859", "event_type": "login", "event_ts": "2025-08-23T22:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000014"}}
+{"event_id": "e-0589582866", "event_type": "login", "event_ts": "2025-08-23T23:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036"}}
+{"event_id": "e-1041349375", "event_type": "login", "event_ts": "2025-08-23T23:09:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000048"}}
+{"event_id": "e-1000025414", "event_type": "login", "event_ts": "2025-08-24T01:35:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034"}}
+{"event_id": "e-2028959335", "event_type": "login", "event_ts": "2025-08-23T23:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000027"}}
+{"event_id": "e-4973319057", "event_type": "login", "event_ts": "2025-08-23T23:13:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-8434946585", "event_type": "login", "event_ts": "2025-08-24T00:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-8974165441", "event_type": "login", "event_ts": "2025-08-23T23:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019"}}
+{"event_id": "e-4022964383", "event_type": "login", "event_ts": "2025-08-23T22:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015"}}
+{"event_id": "e-3597485608", "event_type": "login", "event_ts": "2025-08-23T22:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000012"}}
+{"event_id": "e-0160916027", "event_type": "payment_failed", "event_ts": "2025-08-24T00:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000003", "amount": 29.0, "failure_reason": "insufficient_funds"}}
+{"event_id": "e-5733962237", "event_type": "login", "event_ts": "2025-08-24T00:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-4031086660", "event_type": "login", "event_ts": "2025-08-23T22:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000042"}}
+{"event_id": "e-4778781450", "event_type": "login", "event_ts": "2025-08-24T01:19:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-9694878817", "event_type": "login", "event_ts": "2025-08-24T01:13:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000047"}}
+{"event_id": "e-7691288569", "event_type": "plan_upgraded", "event_ts": "2025-08-23T23:35:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000001"}}
+{"event_id": "e-9343679502", "event_type": "plan_downgraded", "event_ts": "2025-08-23T22:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044"}}
+{"event_id": "e-6508080885", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041", "amount": 29.0}}
+{"event_id": "e-4898890708", "event_type": "login", "event_ts": "2025-08-24T00:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-1647439476", "event_type": "user_signed_up", "event_ts": "2025-08-24T00:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016"}}
+{"event_id": "e-5710697192", "event_type": "login", "event_ts": "2025-08-23T23:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049"}}
+{"event_id": "e-9713296826", "event_type": "login", "event_ts": "2025-08-24T00:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000047"}}
+{"event_id": "e-2868119544", "event_type": "login", "event_ts": "2025-08-24T00:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-7601409433", "event_type": "login", "event_ts": "2025-08-23T23:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-8334966534", "event_type": "login", "event_ts": "2025-08-24T00:26:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008"}}
+{"event_id": "e-4111832213", "event_type": "login", "event_ts": "2025-08-23T23:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000040"}}
+{"event_id": "e-5899673771", "event_type": "login", "event_ts": "2025-08-23T23:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010"}}
+{"event_id": "e-3545940091", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036", "amount": 99.0}}
+{"event_id": "e-3381731379", "event_type": "login", "event_ts": "2025-08-23T23:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000016"}}
+{"event_id": "e-1553854177", "event_type": "login", "event_ts": "2025-08-23T22:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029"}}
+{"event_id": "e-9458191346", "event_type": "login", "event_ts": "2025-08-23T23:43:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-1897690740", "event_type": "login", "event_ts": "2025-08-23T23:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010"}}
+{"event_id": "e-2099500154", "event_type": "plan_upgraded", "event_ts": "2025-08-23T22:10:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000014"}}
+{"event_id": "e-4533921267", "event_type": "login", "event_ts": "2025-08-24T01:27:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-2421980126", "event_type": "login", "event_ts": "2025-08-23T23:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033"}}
+{"event_id": "e-9913512783", "event_type": "login", "event_ts": "2025-08-24T01:55:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000030"}}
+{"event_id": "e-8602885937", "event_type": "login", "event_ts": "2025-08-24T01:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-6114733718", "event_type": "trial_started", "event_ts": "2025-08-23T23:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000038"}}
+{"event_id": "e-3840638977", "event_type": "login", "event_ts": "2025-08-23T22:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-1756070123", "event_type": "user_signed_up", "event_ts": "2025-08-23T22:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000031"}}
+{"event_id": "e-6100408093", "event_type": "plan_downgraded", "event_ts": "2025-08-23T22:12:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000009"}}
+{"event_id": "e-5916301781", "event_type": "login", "event_ts": "2025-08-24T01:40:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025"}}
+{"event_id": "e-1493660314", "event_type": "payment_failed", "event_ts": "2025-08-24T01:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044", "amount": 99.0, "failure_reason": "card_declined"}}
+{"event_id": "e-9136886145", "event_type": "login", "event_ts": "2025-08-24T01:03:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035"}}
+{"event_id": "e-8497552789", "event_type": "plan_downgraded", "event_ts": "2025-08-24T00:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000001"}}
+{"event_id": "e-0986399652", "event_type": "plan_upgraded", "event_ts": "2025-08-24T00:03:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044"}}
+{"event_id": "e-3287754239", "event_type": "login", "event_ts": "2025-08-24T01:52:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000023"}}
+{"event_id": "e-0067198190", "event_type": "login", "event_ts": "2025-08-24T01:08:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-4439176291", "event_type": "login", "event_ts": "2025-08-23T23:27:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-0209063209", "event_type": "login", "event_ts": "2025-08-23T22:51:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044"}}
+{"event_id": "e-9596414119", "event_type": "login", "event_ts": "2025-08-24T01:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000003"}}
+{"event_id": "e-9191812312", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049", "amount": 9.0}}
+{"event_id": "e-6769342364", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:33:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015", "amount": 99.0}}
+{"event_id": "e-5312462378", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:16:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039", "amount": 29.0}}
+{"event_id": "e-6071194858", "event_type": "payment_failed", "event_ts": "2025-08-24T00:50:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010", "amount": 99.0, "failure_reason": "card_declined"}}
+{"event_id": "e-9342125914", "event_type": "login", "event_ts": "2025-08-23T23:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-6547518980", "event_type": "login", "event_ts": "2025-08-23T23:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000028"}}
+{"event_id": "e-5582978574", "event_type": "login", "event_ts": "2025-08-24T01:13:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000027"}}
+{"event_id": "e-5262814763", "event_type": "login", "event_ts": "2025-08-23T22:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049"}}
+{"event_id": "e-8837427518", "event_type": "login", "event_ts": "2025-08-24T00:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-4870891271", "event_type": "login", "event_ts": "2025-08-24T00:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000027"}}
+{"event_id": "e-2777580510", "event_type": "login", "event_ts": "2025-08-23T22:04:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000017"}}
+{"event_id": "e-3562272872", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:47:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000029", "amount": 9.0}}
+{"event_id": "e-0312606334", "event_type": "login", "event_ts": "2025-08-23T22:35:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000018"}}
+{"event_id": "e-5227046161", "event_type": "login", "event_ts": "2025-08-24T01:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049"}}
+{"event_id": "e-3904100196", "event_type": "login", "event_ts": "2025-08-24T01:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022"}}
+{"event_id": "e-9631864383", "event_type": "payment_failed", "event_ts": "2025-08-23T23:26:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000013", "amount": 9.0, "failure_reason": "expired_card"}}
+{"event_id": "e-3930438210", "event_type": "login", "event_ts": "2025-08-23T23:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-7081204253", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:42:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021", "amount": 29.0}}
+{"event_id": "e-8086615745", "event_type": "login", "event_ts": "2025-08-24T00:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000017"}}
+{"event_id": "e-7901585275", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007", "amount": 99.0}}
+{"event_id": "e-1777816562", "event_type": "login", "event_ts": "2025-08-23T23:36:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000014"}}
+{"event_id": "e-4364631242", "event_type": "plan_upgraded", "event_ts": "2025-08-23T23:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015"}}
+{"event_id": "e-6088451459", "event_type": "login", "event_ts": "2025-08-24T01:21:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000038"}}
+{"event_id": "e-3579265602", "event_type": "login", "event_ts": "2025-08-23T23:53:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000013"}}
+{"event_id": "e-7236361109", "event_type": "login", "event_ts": "2025-08-24T00:55:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036"}}
+{"event_id": "e-6402059280", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:17:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049", "amount": 99.0}}
+{"event_id": "e-9191051884", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:41:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000047", "amount": 9.0}}
+{"event_id": "e-4111301176", "event_type": "login", "event_ts": "2025-08-23T23:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000032"}}
+{"event_id": "e-2869963932", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000003", "amount": 9.0}}
+{"event_id": "e-0993998849", "event_type": "login", "event_ts": "2025-08-23T22:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000001"}}
+{"event_id": "e-6467073634", "event_type": "user_signed_up", "event_ts": "2025-08-24T00:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000010"}}
+{"event_id": "e-2095318650", "event_type": "login", "event_ts": "2025-08-24T01:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000004"}}
+{"event_id": "e-0050899551", "event_type": "login", "event_ts": "2025-08-23T23:45:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035"}}
+{"event_id": "e-8493209129", "event_type": "login", "event_ts": "2025-08-24T01:56:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000047"}}
+{"event_id": "e-0769945234", "event_type": "invoice_paid", "event_ts": "2025-08-23T22:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000033", "amount": 99.0}}
+{"event_id": "e-1034953270", "event_type": "login", "event_ts": "2025-08-23T23:22:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-5817280230", "event_type": "login", "event_ts": "2025-08-23T22:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034"}}
+{"event_id": "e-8415119957", "event_type": "trial_started", "event_ts": "2025-08-24T00:03:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-2994607171", "event_type": "login", "event_ts": "2025-08-24T00:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000037"}}
+{"event_id": "e-3262396396", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000044", "amount": 9.0}}
+{"event_id": "e-6668801907", "event_type": "login", "event_ts": "2025-08-24T01:46:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-0736086850", "event_type": "user_signed_up", "event_ts": "2025-08-23T23:53:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-4182609868", "event_type": "login", "event_ts": "2025-08-23T22:11:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000028"}}
+{"event_id": "e-6337225483", "event_type": "invoice_paid", "event_ts": "2025-08-24T01:49:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034", "amount": 9.0}}
+{"event_id": "e-2826557689", "event_type": "login", "event_ts": "2025-08-24T01:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-9479671931", "event_type": "user_signed_up", "event_ts": "2025-08-24T01:24:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021"}}
+{"event_id": "e-3989487509", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000049", "amount": 29.0}}
+{"event_id": "e-7943294721", "event_type": "login", "event_ts": "2025-08-23T23:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000011"}}
+{"event_id": "e-3110258856", "event_type": "login", "event_ts": "2025-08-23T23:52:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035"}}
+{"event_id": "e-1877279756", "event_type": "payment_failed", "event_ts": "2025-08-23T22:26:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000048", "amount": 9.0, "failure_reason": "card_declined"}}
+{"event_id": "e-7617360362", "event_type": "login", "event_ts": "2025-08-24T01:53:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-8558091178", "event_type": "login", "event_ts": "2025-08-23T23:55:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-8337145039", "event_type": "login", "event_ts": "2025-08-24T00:10:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015"}}
+{"event_id": "e-7132531533", "event_type": "login", "event_ts": "2025-08-24T01:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000012"}}
+{"event_id": "e-3427620890", "event_type": "login", "event_ts": "2025-08-23T22:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-4957341288", "event_type": "trial_started", "event_ts": "2025-08-23T22:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-5968380958", "event_type": "login", "event_ts": "2025-08-24T00:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-8344950650", "event_type": "login", "event_ts": "2025-08-24T00:07:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-0439080605", "event_type": "plan_downgraded", "event_ts": "2025-08-24T01:38:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-6495883973", "event_type": "login", "event_ts": "2025-08-24T01:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000012"}}
+{"event_id": "e-2380355949", "event_type": "login", "event_ts": "2025-08-23T23:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002"}}
+{"event_id": "e-4347969847", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:15:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000039", "amount": 29.0}}
+{"event_id": "e-4201221331", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:34:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025", "amount": 99.0}}
+{"event_id": "e-1635231602", "event_type": "login", "event_ts": "2025-08-24T01:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000034"}}
+{"event_id": "e-2117951205", "event_type": "login", "event_ts": "2025-08-24T01:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000018"}}
+{"event_id": "e-6103588072", "event_type": "login", "event_ts": "2025-08-23T23:57:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000011"}}
+{"event_id": "e-4055403878", "event_type": "login", "event_ts": "2025-08-23T22:56:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-2648572297", "event_type": "login", "event_ts": "2025-08-24T00:03:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000041"}}
+{"event_id": "e-5994451418", "event_type": "login", "event_ts": "2025-08-23T22:25:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007"}}
+{"event_id": "e-7998080863", "event_type": "login", "event_ts": "2025-08-24T00:08:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000040"}}
+{"event_id": "e-2552898168", "event_type": "login", "event_ts": "2025-08-24T00:44:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022"}}
+{"event_id": "e-2986257684", "event_type": "login", "event_ts": "2025-08-23T23:58:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021"}}
+{"event_id": "e-5665653123", "event_type": "login", "event_ts": "2025-08-23T22:52:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000021"}}
+{"event_id": "e-3358554366", "event_type": "login", "event_ts": "2025-08-24T00:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000045"}}
+{"event_id": "e-7670238356", "event_type": "login", "event_ts": "2025-08-24T00:27:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025"}}
+{"event_id": "e-2343459103", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000008", "amount": 9.0}}
+{"event_id": "e-3042413313", "event_type": "login", "event_ts": "2025-08-24T00:08:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-2144490991", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:18:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000019", "amount": 9.0}}
+{"event_id": "e-2828935923", "event_type": "login", "event_ts": "2025-08-23T22:57:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000020"}}
+{"event_id": "e-6863073643", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000028", "amount": 9.0}}
+{"event_id": "e-8454334063", "event_type": "login", "event_ts": "2025-08-23T23:01:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000026"}}
+{"event_id": "e-3927323477", "event_type": "login", "event_ts": "2025-08-24T01:33:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000035"}}
+{"event_id": "e-7149805822", "event_type": "login", "event_ts": "2025-08-24T01:18:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000050"}}
+{"event_id": "e-7072709949", "event_type": "login", "event_ts": "2025-08-23T22:48:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000042"}}
+{"event_id": "e-0045302357", "event_type": "payment_failed", "event_ts": "2025-08-24T00:54:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022", "amount": 29.0, "failure_reason": "card_declined"}}
+{"event_id": "e-2470617248", "event_type": "login", "event_ts": "2025-08-24T00:06:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015"}}
+{"event_id": "e-2149484177", "event_type": "login", "event_ts": "2025-08-24T00:32:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000024"}}
+{"event_id": "e-5563839028", "event_type": "login", "event_ts": "2025-08-23T22:05:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000002"}}
+{"event_id": "e-4903457538", "event_type": "login", "event_ts": "2025-08-24T00:41:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000006"}}
+{"event_id": "e-9478422977", "event_type": "login", "event_ts": "2025-08-23T23:57:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022"}}
+{"event_id": "e-7287542752", "event_type": "login", "event_ts": "2025-08-24T00:39:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000023"}}
+{"event_id": "e-0494287463", "event_type": "login", "event_ts": "2025-08-23T22:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000005"}}
+{"event_id": "e-9637532724", "event_type": "login", "event_ts": "2025-08-24T01:16:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000022"}}
+{"event_id": "e-6699500244", "event_type": "login", "event_ts": "2025-08-24T00:02:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000036"}}
+{"event_id": "e-0792214340", "event_type": "invoice_paid", "event_ts": "2025-08-23T23:17:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000015", "amount": 99.0}}
+{"event_id": "e-8715314443", "event_type": "login", "event_ts": "2025-08-23T23:23:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000043"}}
+{"event_id": "e-6139882708", "event_type": "login", "event_ts": "2025-08-24T01:59:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000013"}}
+{"event_id": "e-3418828571", "event_type": "login", "event_ts": "2025-08-23T23:33:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000046"}}
+{"event_id": "e-5097953683", "event_type": "invoice_paid", "event_ts": "2025-08-24T00:37:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000007", "amount": 99.0}}
+{"event_id": "e-9716733825", "event_type": "login", "event_ts": "2025-08-23T22:20:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000013"}}
+{"event_id": "e-7039917767", "event_type": "login", "event_ts": "2025-08-23T23:28:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000032"}}
+{"event_id": "e-2521166053", "event_type": "login", "event_ts": "2025-08-24T00:31:00Z", "payload": {"customer_id": "00000000-0000-0000-0000-000000000025"}}
